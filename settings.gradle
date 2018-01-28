@@ -1,0 +1,1 @@
+include ':BASCALISTIR', ':app', ':base', ':instantapp'
